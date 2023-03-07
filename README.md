@@ -1,4 +1,4 @@
-# Fast-Radio-Burst-Analysis-Tools
+# Fast Radio Burst Analysis Tools
 This is my first git repository to store python packages I will use
 to perform FRB/Pulsar Analysis.
 The first package is named frb_stat. This package has two modules:
